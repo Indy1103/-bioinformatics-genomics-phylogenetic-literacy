@@ -18,7 +18,7 @@ type QuestionPrompt = {
 
 export const heroContent: HeroContent = {
   eyebrow: "Understanding outbreaks and vaccine updates in modern healthcare",
-  title: "Phylogenetic Literacy for Medical Students",
+  title: "Understanding Phylogenetics in Medical Training",
   subtitle:
     "A practical guide to how phylogenetics, genomics, and bioinformatics shape outbreak updates, surveillance, and patient-facing public health decisions."
 };

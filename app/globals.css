@@ -156,49 +156,59 @@ a {
 
 @media (max-width: 640px) {
   .hero-aura-left {
-    left: -5rem;
-    top: -1rem;
-    height: 8.5rem;
-    width: 8.5rem;
+    left: -4.5rem;
+    top: -0.5rem;
+    height: 7rem;
+    width: 7rem;
+    opacity: 0.72;
   }
 
   .hero-aura-right {
-    right: -3rem;
-    top: 2rem;
-    height: 7.5rem;
-    width: 7.5rem;
+    right: -2.75rem;
+    top: 2.5rem;
+    height: 6.25rem;
+    width: 6.25rem;
+    opacity: 0.68;
   }
 
   .hero-core-left {
-    left: -0.5rem;
-    top: 0.75rem;
-    height: 4.6rem;
-    width: 8rem;
+    left: -0.75rem;
+    top: 1.5rem;
+    height: 3.75rem;
+    width: 6.75rem;
+    border-width: 2px;
   }
 
   .hero-core-right {
-    right: -0.75rem;
-    top: 2.25rem;
-    height: 5.5rem;
-    width: 9rem;
+    right: -1.25rem;
+    top: 2.5rem;
+    height: 4.5rem;
+    width: 7.5rem;
+    border-width: 2px;
   }
 
   .hero-ring-left {
-    left: -7.5rem;
-    top: -5rem;
-    width: 16rem;
+    left: -8.5rem;
+    top: -5.5rem;
+    width: 14rem;
+    border-width: 1px;
+    opacity: 0.55;
   }
 
   .hero-ring-top {
-    right: 3rem;
-    top: -5rem;
-    width: 12rem;
+    right: 2rem;
+    top: -5.5rem;
+    width: 10rem;
+    border-width: 1px;
+    opacity: 0.45;
   }
 
   .hero-ring-right {
-    right: -7rem;
-    top: 3rem;
-    width: 16rem;
+    right: -8rem;
+    top: 4rem;
+    width: 13rem;
+    border-width: 1px;
+    opacity: 0.42;
   }
 }
 
